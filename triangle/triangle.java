@@ -13,7 +13,7 @@ public class triangle {
         float c = scanner.nextFloat();
         float perimeter = a + b + c;
         float p = perimeter/2;
-        float acreage = (float) Math.sqrt(p*(p-a)*(p-b)*(p-c));
+        double acreage = Math.sqrt(p*(p-a)*(p-b)*(p-c));
         if ( a == b && b == c){
             System.out.println("Day la tam giac deu");
             System.out.println("Chu vi = " + perimeter);

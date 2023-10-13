@@ -40,7 +40,7 @@ public class Person {
         int month2 = date2.getDayOfMonth();
         int year = date2.getYear();
 
-        if (month1 >= month2 && day1 >= day2 ){
+        if (month1 == month2 && day1 >= day2 || month2 > month1 ){
            return   "Sinh nhat gan nhat cua ban la: " + day1 + "-" + month1 + "-" + (year + 1);
         }else {
             return  "Sinh  nhat gan nhat cua ban la: " + day1 + "-" + month1 + "-" + year;

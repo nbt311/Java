@@ -74,14 +74,14 @@ public class Triangle extends Shape {
             return "Is not Triangle!";
         }
         return "Triagle:\n" +
-                "+ size of three side: " +
+                "- size of three side: " +
                 this.side1 + ", " +
                 this.side2 + ", " +
-                this.side3 + "\n" +
-                "+ color: " + this.getColor() + "\n" +
-                "+ fill: " + this.isFilled() + "\n" +
-                "+ Perimeter: " + this.getPerimeter() + "\n" +
-                "+ Area: " + this.getArea() + "\n";
+                this.side3 + "\n"
+                + "- which is a subclass of " +
+                super.toString()+ "\n" +
+                "- Perimeter: " + this.getPerimeter() + "\n" +
+                "- Area: " + this.getArea() + "\n";
     }
 
 

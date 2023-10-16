@@ -71,7 +71,7 @@ public class Triangle extends Shape {
 
     public String toString(){
         if (!isValid()){
-            return "Khong phai la 1 tam giac";
+            return "Is not Triangle!";
         }
         return "Triagle:\n" +
                 "+ size of three side: " +

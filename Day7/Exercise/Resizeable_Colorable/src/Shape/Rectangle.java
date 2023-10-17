@@ -65,6 +65,5 @@ public class Rectangle extends Shape implements Resizeable, Colorable {
 
     @Override
     public void howToColor() {
-        System.out.println("Rectangle: Color all four sides");
     }
 }

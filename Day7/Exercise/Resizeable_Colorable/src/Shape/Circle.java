@@ -3,7 +3,7 @@ package src.Shape;
 import src.IColor.Colorable;
 import src.IResize.Resizeable;
 
-public class Circle extends Shape implements Resizeable, Colorable {
+public class Circle extends Shape implements Resizeable,Colorable {
     private double radius = 1.0;
 
     public Circle() {
@@ -49,6 +49,6 @@ public class Circle extends Shape implements Resizeable, Colorable {
 
     @Override
     public void howToColor() {
-        System.out.println("Circle: Color all sides ");
+
     }
 }

@@ -1,3 +1,4 @@
+import src.IColor.Colorable;
 import src.Shape.Circle;
 import src.Shape.Rectangle;
 import src.Shape.Shape;
@@ -17,9 +18,12 @@ public class ShapeTest {
            shape.resize(Math.random() * 1000);
            System.out.println(shape);
        }
+        System.out.println("How to color:");
+        for (Shape shape : shapes){
+            shape.howToColor();
+        }
 //        System.out.println("\n");
         //Shape.printShape(shapes);
-
 
     }
 }

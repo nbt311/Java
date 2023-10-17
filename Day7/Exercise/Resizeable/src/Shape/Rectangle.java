@@ -1,8 +1,9 @@
 package src.Shape;
 
+import src.IColor.Colorable;
 import src.IResize.Resizeable;
 
-public class Rectangle extends Shape implements Resizeable {
+public class Rectangle extends Shape implements Resizeable, Colorable {
     private double width = 1.0;
     private double length = 1.0;
 
@@ -60,5 +61,10 @@ public class Rectangle extends Shape implements Resizeable {
     public void resize(double percent) {
         this.length *= (percent / 200);
         this.width += (percent / 200);
+    }
+
+    @Override
+    public void howToColor() {
+        System.out.println("Rectangle: Color all four sides");
     }
 }

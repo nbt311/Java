@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfa8f297-8b73-4727-8f7e-829f7acb9aa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day1/Exercise/readNumbers/readNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day1/Exercise/readNumbers/readNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day3/Exercise/AddElement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day3/Exercise/AddElement/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day3/Exercise/FindMaxElement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day3/Exercise/FindMaxElement/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day3/Exercise/FindMinElement/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day3/Exercise/FindMinElement/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day3/Exercise/SumDiagonalLine/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day3/Exercise/SumDiagonalLine/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day3/Practice/ex1/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day3/Practice/ex1/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/out/production/QuadraticEquation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/out/production/QuadraticEquation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/out/production/QuadraticEquation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/out/production/QuadraticEquation/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/out/production/QuadraticEquation/src/QuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Exercise/QuadraticEquation/out/production/QuadraticEquation/src/QuadraticEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Exercise/StopWatch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Exercise/StopWatch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Exercise/StopWatch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Exercise/StopWatch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Exercise/StopWatch/out/production/StopWatch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Exercise/StopWatch/out/production/StopWatch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day4/Practice/StudentInfo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day4/Practice/StudentInfo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day5/Exercise/AccountBank/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day5/Exercise/AccountBank/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day5/Exercise/StudentManagement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day5/Exercise/StudentManagement/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day5/Exercise/StudentManagement/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day5/Exercise/StudentManagement/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day5/Exercise/StudentManagement/src/StudentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day5/Exercise/StudentManagement/src/StudentList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day5/Exercise/Studentday5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day5/Exercise/Studentday5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day5/Practice/StaticMethod/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day5/Practice/StaticMethod/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/src/MovablePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/src/MovablePoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/src/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Exercise/Point_MoveablePoint/out/production/Point_MoveablePoint/src/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Exercise/Triangle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Exercise/Triangle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Exercise/Triangle/out/production/Triangle/src/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Exercise/Triangle/out/production/Triangle/src/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Practice/Shape/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Practice/Shape/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day6/Practice/Shape/out/production/Shape/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day6/Practice/Shape/out/production/Shape/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/Resizeable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/Resizeable.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/src/IColor/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/src/IResize/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/src/Shape/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/src/Shape/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/out/production/Resizeable/src/Shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/src/IColor/Colorable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/src/IResize/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/src/Shape/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/src/Shape/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable/src/Shape/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/out/production/Resizeable/src/Shape/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/out/production/Resizeable/src/Shape/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/out/production/Resizeable/src/Shape/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/out/production/Resizeable/src/Shape/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/out/production/Resizeable/src/Shape/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/out/production/Resizeable/src/Shape/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/src/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/src/Shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/src/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/src/Shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/src/Shape/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Day7/Exercise/Resizeable_Colorable/src/Shape/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apj-2023-fizzbuzz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/out/production/readNumbers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/out/production/readNumbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/out/production/readNumbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/out/production/readNumbers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/out/production/readNumbers/readNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/out/production/readNumbers/readNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/readNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/readNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../readNumbers/readNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../triangle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../triangle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../triangle/out/production/triangle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../triangle/out/production/triangle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../triangle/out/production/triangle/triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../triangle/out/production/triangle/triangle.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2WuvAiO7GujgvzT8CmOCCY9dRMW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfa8f297-8b73-4727-8f7e-829f7acb9aa0" name="Changes" comment="" />
+      <created>1697595139301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697595139301</updated>
+      <workItem from="1697595140183" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

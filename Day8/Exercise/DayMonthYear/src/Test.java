@@ -12,8 +12,8 @@ public class Test {
         int month = scanner.nextInt();
         System.out.println("Nhap nam");
         int year = scanner.nextInt();
-        Date date = new Date(day, month, year);
-        System.out.println(date.getDayMonthYear());
+        NextDay newDay = new NextDay(day, month, year);
+        System.out.println(newDay.showNextDay());
 
     }
 

@@ -2,11 +2,18 @@ package src;
 
 public class TheNextDay {
     public static String getNextTime(int day, int month, int year){
+        if (year < 0){
+            return "Data Day not exactly";
+        }
+        if (month < 1 || month > 12 ){
+            return "Data Day not exactly";
+        }
         if (day < 1 || day > 31){
             return "Data Day not exactly";
         }
         int nextDay = day;
         int nextMonth = month;
+        int nextYear = year;
         if (isaMothHave30Day(month)){
             if (day == 30){
                 nextDay = 1;
@@ -15,8 +22,12 @@ public class TheNextDay {
                 nextDay +=1;
             }
         } else if (isaMothHave31Day(month)) {
-
-            if ( day == 31){
+            if (month == 12){
+                nextYear +=1;
+                nextMonth = 1;
+                nextDay = 1;
+            }
+            else if ( day == 31){
                 nextDay = 1;
                 nextMonth += 1;
             }else {
@@ -48,7 +59,7 @@ public class TheNextDay {
 
         }
 
-        return year + "-" + nextMonth + "-" + nextDay;
+        return nextYear + "-" + nextMonth + "-" + nextDay;
     }
 
     private static boolean isLeapYear(int year) {

@@ -89,4 +89,22 @@ public class TheNextDayTest {
         String actual = TheNextDay.getNextTime(day, month, year);
         assertEquals(expected, actual);
     }
+    @Test
+    public void testInputDayMaxOfMothDecemberWithCommon() {
+        int day = 31;
+        int month = 12;
+        int year = 2023;
+        String expected = "2024-1-1";
+        String actual = TheNextDay.getNextTime(day, month, year);
+        assertEquals(expected, actual);
+    }
+    @Test
+    public void test2InputDayMaxOfMothDecemberWithCommon() {
+        int day = 31;
+        int month = 13;
+        int year = 2023;
+        String expected = "Data Day not exactly";
+        String actual = TheNextDay.getNextTime(day, month, year);
+        assertEquals(expected, actual);
+    }
 }
